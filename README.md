@@ -24,11 +24,9 @@
 
 I'm a **final-year Computer Engineering student** with Honors in **Artificial Intelligence & Machine Learning**, interested in **Data Analytics, SQL Python and data-driven problem solving**.
 
-I enjoy working with data — from **querying and processing databases** to **cleaning, analyzing and extracting meaningful insights**. I also like building automation around repetitive data and reporting workflows.
+I enjoy working with data - from **querying and processing databases** to **cleaning, analyzing and extracting meaningful insights**. I also like building automation around repetitive data and reporting workflows.
 
 Through my internships and projects, I've gained hands-on experience with **MySQL, PostgreSQL, MongoDB, Oracle, Python, REST APIs, data analysis and AI-powered applications**.
-
-> **My focus:** Turning data into insights, and repetitive workflows into automated solutions.
 
 ---
 
